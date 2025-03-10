@@ -28,7 +28,7 @@ Motivated web developer with expertise in the MERN stack, committed to contribut
 
 </br>
 <!--  MY README STAT  -->
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=shanmugapriya1203&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudharshanFSD&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
 
 
