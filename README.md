@@ -36,8 +36,8 @@ Motivated web developer with expertise in the MERN stack, committed to contribut
 </br>
 
 <!--  MY GITHUB STAT -- LANGUAGES USED  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=shanmugapriya1203&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugapriya1203&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=sudharshanFSD&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshanFSD&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 </p>
 
 
