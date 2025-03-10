@@ -8,7 +8,7 @@ Fullstack Developer
 Motivated web developer with expertise in the MERN stack, committed to contributing to impactful projects and continuous learning. Collaborative team player with a passion for coding, reading, and staying current with industry trends. Analytical thinker ready to make a positive difference.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [sam](https://portfoliosudharshan.netlify.app/)
+* 🖥️  See my portfolio at [Sudharshan](https://portfoliosudharshan.netlify.app/)
 * ✉️  You can contact me at [tsrssudharshan@gmail.com](mailto:tsrssudharshan@gmail.com)
 * 🧠  I'm learning Next Js
 * 🤝  I'm open to collaborating on Exciting and innovative projects that push boundaries and inspire creativity. Let's build something awesome together!
