@@ -44,9 +44,8 @@ Motivated web developer with expertise in the MERN stack, committed to contribut
 
 ### _**You can find me on**_
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya1203/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyamuthukumar1203@gmail.com)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/priyamuthukumar1203/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshan-v-fsd/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsrssudharshan@gmail.com)
 
 
 #### 🚀 Let's connect and collaborate! <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
