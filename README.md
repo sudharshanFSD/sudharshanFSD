@@ -1,7 +1,5 @@
 Hi 👋 My name is Sudharshan
 
-<!--
-**sudharshanFSD/sudharshanFSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Motivated web developer with expertise in the MERN stack, committed to contributing to impactful projects and continuous learning. Collaborative team player with a passion for coding, reading, and staying current with industry trends. Analytical thinker ready to make a positive difference.
 
